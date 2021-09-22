@@ -6,7 +6,7 @@
 
 ### :necktie: Student
 * Name: Erik Saul Rivera Reyes
-* Control number: 17212102
+* Control number: 17212348
 * Career: Ing. Informática
 
 ### :necktie: Student
