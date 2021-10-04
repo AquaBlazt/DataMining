@@ -20,6 +20,7 @@
 1. :book: [Practica 1](https://github.com/AquaBlazt/Mineria_de_Datos/blob/main/PRACTICA%201.r)
 2. :book: [Practica 2](https://github.com/AquaBlazt/Mineria_de_Datos/blob/main/PRACTICA%202.r)
 3. :book: [Practica 3](https://github.com/AquaBlazt/Mineria_de_Datos/blob/main/PRACTICA%203.R)
+4. :book: [Practica 4](https://github.com/AquaBlazt/Mineria_de_Datos/blob/main/PRACTICA%204.R)
 
 ## Unit 2
 
