@@ -17,10 +17,11 @@
 ## :books: Content
 
 ## Unit 1
-1. :book: [Practica 1](https://github.com/AquaBlazt/Mineria_de_Datos/blob/main/PRACTICA%201.r)
-2. :book: [Practica 2](https://github.com/AquaBlazt/Mineria_de_Datos/blob/main/PRACTICA%202.r)
-3. :book: [Practica 3](https://github.com/AquaBlazt/Mineria_de_Datos/blob/main/PRACTICA%203.R)
-4. :book: [Practica 4](https://github.com/AquaBlazt/Mineria_de_Datos/blob/main/PRACTICA%204.R)
+1. :book: [Practica 1](https://github.com/AquaBlazt/Mineria_de_Datos/blob/master/PRACTICA%201.r)
+2. :book: [Practica 2](https://github.com/AquaBlazt/Mineria_de_Datos/blob/master/PRACTICA%202.r)
+3. :book: [Practica 3](https://github.com/AquaBlazt/Mineria_de_Datos/blob/master/PRACTICA%203.R)
+4. :book: [Practica 4](https://github.com/AquaBlazt/Mineria_de_Datos/blob/master/PRACTICA%204.R)
+5. :book: [Evaluacion](https://github.com/AquaBlazt/Mineria_de_Datos/blob/master/EXAMENU1.R)
 
 ## Unit 2
 
