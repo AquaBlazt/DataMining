@@ -24,7 +24,7 @@
 5. :book: [Evaluacion](https://github.com/AquaBlazt/Mineria_de_Datos/blob/master/EXAMENU1.R)
 
 ## Unit 2
-
+1. :book: [Practica 1](https://github.com/AquaBlazt/DataMining/blob/development/PRACTICA1U2.R)
 ## Unit 3
 
 ## Unit 4
