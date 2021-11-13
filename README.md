@@ -1,6 +1,4 @@
 
-# DataMining_Course
- 
 Erik Saul Rivera Reyes #17212348
 =======
 <p align="center">
@@ -13,27 +11,6 @@ Erik Saul Rivera Reyes #17212348
 * Name: Erik Saul Rivera Reyes
 * Control number: 17212348
 * Career: Ing. Informática
-
-### :necktie: Student
-* Name: José Miguel Aguilar López
-* Control number: 17212102
-* Career: Ing. Sistemas Computacionales
-
-## :books: Content
-
-## Unit 1
-1. :book: [Practica 1](https://github.com/AquaBlazt/Mineria_de_Datos/blob/master/PRACTICA%201.r)
-2. :book: [Practica 2](https://github.com/AquaBlazt/Mineria_de_Datos/blob/master/PRACTICA%202.r)
-3. :book: [Practica 3](https://github.com/AquaBlazt/Mineria_de_Datos/blob/master/PRACTICA%203.R)
-4. :book: [Practica 4](https://github.com/AquaBlazt/Mineria_de_Datos/blob/master/PRACTICA%204.R)
-5. :book: [Evaluacion](https://github.com/AquaBlazt/Mineria_de_Datos/blob/master/EXAMENU1.R)
-
-## Unit 2
-1. :book: [Practica 1](https://github.com/AquaBlazt/DataMining/blob/development/PRACTICA1U2.R)
-## Unit 3
-
-## Unit 4
-
 
 .
 >>>>>>> e241a4ff5e8294d9b9a9cc986e136ef53e4b6483
