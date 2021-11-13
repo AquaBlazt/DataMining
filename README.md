@@ -12,5 +12,3 @@ Erik Saul Rivera Reyes #17212348
 * Control number: 17212348
 * Career: Ing. Informática
 
-
-
